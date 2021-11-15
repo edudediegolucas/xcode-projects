@@ -1,0 +1,130 @@
+{"oceania":{
+	"total":"25",
+	"countries":{			
+		"oceania.1":{
+			"name":"Australia",
+			"capital":"Canberra",
+			"picture":"australia"
+		},
+		"oceania.2":{
+			"name":"Islas Cook",
+			"capital":"Avarua",
+			"picture":"the_cook_islands"
+		},
+		"oceania.3":{
+			"name":"Fiyi",
+			"capital":"Suva",
+			"picture":"fiji"
+		},
+		"oceania.4":{
+			"name":"Guam",
+			"capital":"Agaña",
+			"picture":"guam"
+		},
+		"oceania.5":{
+			"name":"Kiribati",
+			"capital":"Tarawa",
+			"picture":"kiribati"
+		},
+		"oceania.6":{
+			"name":"Islas Marianas del Norte",
+			"capital":"Saipán",
+			"picture":"the_northern_mariana_islands"
+		},
+		"oceania.7":{
+			"name":"Islas Marshall",
+			"capital":"Majuro",
+			"picture":"the_marshall_islands"
+		},
+		"oceania.8":{
+			"name":"Micronesia",
+			"capital":"Palikir",
+			"picture":"the_federated_states_of_micronesia"
+		},
+		"oceania.9":{
+			"name":"Nauru",
+			"capital":"Yaren",
+			"picture":"nauru"
+		},
+		"oceania.10":{
+			"name":"Niue",
+			"capital":"Alofi",
+			"picture":"niue"
+		},
+		"oceania.11":{
+			"name":"Isla Norfolk",
+			"capital":"Kingston",
+			"picture":"norfolk_island"
+		},
+		"oceania.12":{
+			"name":"Nueva Caledonia",
+			"capital":"Numea",
+			"picture":"new_caledonia"
+		},
+		"oceania.13":{
+			"name":"Nueva Zelanda",
+			"capital":"Wellington",
+			"picture":"new_zealand"
+		},
+		"oceania.14":{
+			"name":"Palaos",
+			"capital":"Melekeok",
+			"picture":"palau"
+		},
+		"oceania.15":{
+			"name":"Papúa Nueva Guinea",
+			"capital":"Port Moresby",
+			"picture":"papua_new_guinea"
+		},
+		"oceania.16":{
+			"name":"Islas Pitcairn",
+			"capital":"Adamstown",
+			"picture":"the_pitcairn_islands"
+		},
+		"oceania.17":{
+			"name":"Polinesia Francesa",
+			"capital":"Papeete",
+			"picture":"french_polynesia"
+		},
+		"oceania.18":{
+			"name":"Islas Salomón",
+			"capital":"Honiara",
+			"picture":"the_solomon_islands"
+		},
+		"oceania.19":{
+			"name":"Samoa",
+			"capital":"Apia",
+			"picture":"samoa"
+		},
+		"oceania.20":{
+			"name":"Samoa Americana",
+			"capital":"Pago Pago",
+			"picture":"american_samoa"
+		},
+		"oceania.21":{
+			"name":"Tokelau",
+			"capital":"Atafu",
+			"picture":"tokelau"
+		},
+		"oceania.22":{
+			"name":"Tonga",
+			"capital":"Nukualofa",
+			"picture":"tonga"
+		},
+		"oceania.23":{
+			"name":"Tuvalu",
+			"capital":"Funafuti",
+			"picture":"tuvalu"
+		},
+		"oceania.24":{
+			"name":"Vanuatu",
+			"capital":"Port Vila",
+			"picture":"vanuatu"
+		},
+		"oceania.25":{
+			"name":"Wallis y Futuna",
+			"capital":"Mata-Utu",
+			"picture":"wallis_and_futuna"
+		}
+	}
+}}

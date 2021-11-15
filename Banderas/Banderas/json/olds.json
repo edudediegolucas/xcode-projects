@@ -1,0 +1,161 @@
+{"olds":{
+	"total":"39",
+	"countries":{		
+		"olds.1":{
+			"name":"Imperio español (s.XVI-XVII)",
+			"picture":"imperio_espanol"
+		},
+		"olds.2":{
+			"name":"Imperio español (s.XVIII-XIX)",
+			"picture":"imperio_espanol2"
+		},
+		"olds.3":{
+			"name":"Imperio chino",
+			"picture":"imperio_chino"
+		},
+		"olds.4":{
+			"name":"Imperio portugués",
+			"picture":"imperio_portugues"
+		},
+		"olds.5":{
+			"name":"Imperio brasileño",
+			"picture":"imperio_brasileno"
+		},
+		"olds.6":{
+			"name":"Reino de Brasil",
+			"picture":"reino_de_brasil"
+		},
+		"olds.7":{
+			"name":"Imperio aqueménida (Persia)",
+			"picture":"imperio_aquemenida"
+		},
+		"olds.8":{
+			"name":"República de Ezo",
+			"picture":"republica_de_ezo"
+		},
+		"olds.9":{
+			"name":"Reino de Ryukyu",
+			"picture":"reino_de_ryukyu"
+		},
+		"olds.10":{
+			"name":"Imperio de Corea",
+			"picture":"imperio_de_corea"
+		},
+		"olds.11":{
+			"name":"Imperio romano",
+			"picture":"imperio_romano"
+		},
+		"olds.12":{
+			"name":"Reino de Macedonia",
+			"picture":"reino_de_macedonia"
+		},
+		"olds.13":{
+			"name":"Imperio otomano",
+			"picture":"imperio_otomano"
+		},
+		"olds.14":{
+			"name":"Imperio serbio",
+			"picture":"imperio_serbio"
+		},
+		"olds.15":{
+			"name":"Imperio bizantino",
+			"picture":"imperio_bizantino"
+		},
+		"olds.16":{
+			"name":"Primera República Helena",
+			"picture":"primera_republica_grecia"
+		},
+		"olds.17":{
+			"name":"Califato islámico fatimí",
+			"picture":"califato_fatimi"
+		},
+		"olds.18":{
+			"name":"Primer Imperio Mexicano",
+			"picture":"primer_imperio_mexicano"
+		},
+		"olds.19":{
+			"name":"Imperio tibetano",
+			"picture":"imperio_tibetano"
+		},
+		"olds.20":{
+			"name":"Reino de Italia",
+			"picture":"reino_de_italia"
+		},
+		"olds.21":{
+			"name":"Imperio neerlandés",
+			"picture":"imperio_neerlandes"
+		},
+		"olds.22":{
+			"name":"Imperio sasánida",
+			"picture":"imperio_sasanida"
+		},
+		"olds.23":{
+			"name":"Imperio alemán",
+			"picture":"imperio_aleman"
+		},
+		"olds.24":{
+			"name":"Principado de Moscú",
+			"picture":"principado_de_moscu"
+		},
+		"olds.25":{
+			"name":"Imperio austríaco",
+			"picture":"imperio_austriaco"
+		},
+		"olds.26":{
+			"name":"Reino de Cerdeña",
+			"picture":"reino_de_cerdena"
+		},
+		"olds.27":{
+			"name":"Reino de Etruria",
+			"picture":"reino_de_etruria"
+		},
+		"olds.28":{
+			"name":"Imperio Inca",
+			"picture":"imperio_inca"
+		},
+		"olds.29":{
+			"name":"Segundo Imperio Mexicano",
+			"picture":"segundo_imperio_mexicano"
+		},
+		"olds.30":{
+			"name":"Zarato ruso",
+			"picture":"zarato_ruso"
+		},
+		"olds.31":{
+			"name":"República de las Dos Naciones",
+			"picture":"republica_dos_naciones"
+		},
+		"olds.32":{
+			"name":"Reino de Prusia",
+			"picture":"reino_de_prusia"
+		},
+		"olds.33":{
+			"name":"Imperio sueco",
+			"picture":"imperio_sueco"
+		},
+		"olds.34":{
+			"name":"Reino de Armenia",
+			"picture":"reino_de_armenia"
+		},
+		"olds.35":{
+			"name":"Sacro Imperio Romano Germánico",
+			"picture":"sacro_imperio_romano_germanico"
+		},
+		"olds.36":{
+			"name":"Imperio austrohúngaro",
+			"picture":"imperio_austrohungaro"
+		},
+		"olds.37":{
+			"name":"Estado libre de Fiume",
+			"picture":"estado_libre_fiume"
+		},
+		"olds.38":{
+			"name":"Reino de las Dos Sicilias",
+			"picture":"reino_dos_sicilias"
+		},
+		"olds.39":{
+			"name":"Gran Ducado de Toscana",
+			"picture":"gran_ducado_toscana"
+		}
+	}
+}}

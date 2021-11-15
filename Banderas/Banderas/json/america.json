@@ -1,0 +1,245 @@
+{"america":{
+    "total":"48",
+    "countries":{
+                 "america.1":{
+                              "name":"Anguila",
+                              "capital":"El Valle",
+                              "picture":"anguilla"
+                              },
+                 "america.2":{
+                              "name":"Antigua y Barbuda",
+                              "capital":"Saint John's",
+                              "picture":"antigua_and_barbuda"
+                              },
+                 "america.3":{
+                              "name":"Argentina",
+                              "capital":"Buenos Aires",
+                              "picture":"argentina"
+                              },
+                 "america.4":{
+                              "name":"Aruba",
+                              "capital":"Oranjestad",
+                              "picture":"aruba"
+                              },
+                 "america.5":{
+                              "name":"Bahamas",
+                              "capital":"Nasáu",
+                              "picture":"the_bahamas"
+                              },
+                 "america.6":{
+                              "name":"Barbados",
+                              "capital":"Bridgetown",
+                              "picture":"barbados"
+                              },
+                 "america.7":{
+                              "name":"Belice",
+                              "capital":"Belmopán",
+                              "picture":"belize"
+                              },
+                 "america.8":{
+                              "name":"Bermudas",
+                              "capital":"Hamilton",
+                              "picture":"bermuda"
+                              },
+                 "america.9":{
+                              "name":"Bolivia",
+                              "capital":"Sucre",
+                              "picture":"bolivia"
+                              },
+                 "america.10":{
+                               "name":"Brasil",
+                               "capital":"Brasilia",
+                               "picture":"brazil"
+                               },
+                 "america.11":{
+                               "name":"Islas Caimán",
+                               "capital":"George Town",
+                               "picture":"the_cayman_islands"
+                               },
+                 "america.12":{
+                               "name":"Canadá",
+                               "capital":"Ottawa",
+                               "picture":"canada"
+                               },
+                 "america.13":{
+                               "name":"Chile",
+                               "capital":"Santiago de Chile",
+                               "picture":"chile"
+                               },
+                 "america.14":{
+                               "name":"Colombia",
+                               "capital":"Bogotá",
+                               "picture":"colombia"
+                               },
+                 "america.15":{
+                               "name":"Costa Rica",
+                               "capital":"San José",
+                               "picture":"costa_rica"
+                               },
+                 "america.16":{
+                               "name":"Cuba",
+                               "capital":"La Habana",
+                               "picture":"cuba"
+                               },
+                 "america.17":{
+                               "name":"Curazao",
+                               "capital":"Willemstad",
+                               "picture":"curazao"
+                               },
+                 "america.18":{
+                               "name":"Dominica",
+                               "capital":"Roseau",
+                               "picture":"dominica"
+                               },
+                 "america.19":{
+                               "name":"República Dominicana",
+                               "capital":"Santo Domingo",
+                               "picture":"the_dominican_republic"
+                               },
+                 "america.20":{
+                               "name":"Ecuador",
+                               "capital":"Quito",
+                               "picture":"ecuador"
+                               },
+                 "america.21":{
+                               "name":"El Salvador",
+                               "capital":"San Salvador",
+                               "picture":"el_salvador"
+                               },
+                 "america.22":{
+                               "name":"Estados Unidos",
+                               "capital":"Washington D.C.",
+                               "picture":"the_united_states"
+                               },
+                 "america.23":{
+                               "name":"Granada",
+                               "capital":"Saint George's",
+                               "picture":"grenada"
+                               },
+                 "america.24":{
+                               "name":"Groenlandia",
+                               "capital":"Nuuk",
+                               "picture":"greenland"
+                               },
+                 "america.25":{
+                               "name":"Guatemala",
+                               "capital":"Ciudad de Guatemala",
+                               "picture":"guatemala"
+                               },
+                 "america.26":{
+                               "name":"Guyana",
+                               "capital":"Georgetown",
+                               "picture":"guyana"
+                               },
+                 "america.27":{
+                               "name":"Haití",
+                               "capital":"Puerto Príncipe",
+                               "picture":"haiti"
+                               },
+                 "america.28":{
+                               "name":"Honduras",
+                               "capital":"Tegucigalpa",
+                               "picture":"honduras"
+                               },
+                 "america.29":{
+                               "name":"Jamaica",
+                               "capital":"Kingston",
+                               "picture":"jamaica"
+                               },
+                 "america.30":{
+                               "name":"Islas Malvinas",
+                               "capital":"Puerto Argentino/Stanley",
+                               "picture":"the_falkland_islands"
+                               },
+                 "america.31":{
+                               "name":"México",
+                               "capital":"Ciudad de México",
+                               "picture":"mexico"
+                               },
+                 "america.32":{
+                               "name":"Montserrat",
+                               "capital":"Plymouth",
+                               "picture":"montserrat"
+                               },
+                 "america.33":{
+                               "name":"Nicaragua",
+                               "capital":"Managua",
+                               "picture":"nicaragua"
+                               },
+                 "america.34":{
+                               "name":"Panamá",
+                               "capital":"Panamá",
+                               "picture":"panama"
+                               },
+                 "america.35":{
+                               "name":"Paraguay",
+                               "capital":"Asunción",
+                               "picture":"paraguay"
+                               },
+                 "america.36":{
+                               "name":"Perú",
+                               "capital":"Lima",
+                               "picture":"peru"
+                               },
+                 "america.37":{
+                               "name":"Puerto Rico",
+                               "capital":"San Juan",
+                               "picture":"puerto_rico"
+                               },
+                 "america.38":{
+                               "name":"San Cristóbal y Nieves",
+                               "capital":"Basseterre",
+                               "picture":"saint_kitts_and_nevis"
+                               },
+                 "america.39":{
+                               "name":"San Martín (Países Bajos)",
+                               "capital":"Philipsburg",
+                               "picture":"sint_maarten"
+                               },
+                 "america.40":{
+                               "name":"San Vicente y las Granadinas",
+                               "capital":"Kingstown",
+                               "picture":"saint_vincent_and_the_grenadines"
+                               },
+                 "america.41":{
+                               "name":"Santa Lucía",
+                               "capital":"Castries",
+                               "picture":"saint_lucia"
+                               },
+                 "america.42":{
+                               "name":"Surinam",
+                               "capital":"Paramaribo",
+                               "picture":"suriname"
+                               },
+                 "america.43":{
+                               "name":"Trinidad y Tobago",
+                               "capital":"Puerto España",
+                               "picture":"trinidad_and_tobago"
+                               },
+                 "america.44":{
+                               "name":"Islas Turcas y Caicos",
+                               "capital":"Cockburn Town",
+                               "picture":"the_cocos_islands"
+                               },
+                 "america.45":{
+                               "name":"Uruguay",
+                               "capital":"Montevideo",
+                               "picture":"uruguay"
+                               },
+                 "america.46":{
+                               "name":"Venezuela",
+                               "capital":"Caracas",
+                               "picture":"venezuela"
+                               },
+                 "america.47":{
+                               "name":"Islas Vírgenes Británicas",
+                               "capital":"Road Town",
+                               "picture":"the_british_virgin_islands"
+                               },
+                 "america.48":{
+                               "name":"Islas Vírgenes de los Estados Unidos",
+                               "capital":"Charlotte Amalie",
+                               "picture":"the_united_states_virgin_islands"
+                               }
+                 }
+}}
